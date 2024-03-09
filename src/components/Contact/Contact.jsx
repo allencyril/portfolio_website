@@ -3,7 +3,7 @@ import {Row, Col } from "react-bootstrap";
 import Button from 'react-bootstrap/Button';
 // import { Container, Flex, Box, Input, Textarea,ButtonGroup, Center, Text } from "@chakra-ui/react";
 import './Contact.css'
-
+import { Container } from '@chakra-ui/react';
 const Contact = () => {
     const form = useRef();
     const [done, setDone] = useState(false)

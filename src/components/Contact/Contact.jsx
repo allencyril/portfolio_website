@@ -1,7 +1,7 @@
 import React,{useState, useRef} from 'react'
 import {Row, Col } from "react-bootstrap";
 import Button from 'react-bootstrap/Button';
-import { Container, Flex, Box, Input, Textarea,ButtonGroup, Center, Text } from "@chakra-ui/react";
+// import { Container, Flex, Box, Input, Textarea,ButtonGroup, Center, Text } from "@chakra-ui/react";
 import './Contact.css'
 
 const Contact = () => {
